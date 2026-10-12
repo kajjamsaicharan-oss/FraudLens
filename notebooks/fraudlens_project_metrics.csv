@@ -1,0 +1,9 @@
+Metric,Value
+Total Transactions,20.0
+Predicted Fraud,20.0
+Predicted Legitimate,0.0
+High Risk,20.0
+Medium Risk,0.0
+Low Risk,0.0
+Fraud Percentage,100.0
+Top Investigation Cases,20.0

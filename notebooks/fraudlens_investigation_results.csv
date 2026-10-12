@@ -1,0 +1,21 @@
+TransactionID,Decision_Tree_prediction,Random_Forest_predictions,Fraud_Score,Risk_level,Investigation_Priority
+3091756,0,1,0.9980197571203712,High,Immediate Investigation
+3073448,0,1,0.9974803998263916,High,Immediate Investigation
+3073399,0,1,0.9974803998263916,High,Immediate Investigation
+3073559,0,1,0.9974803998263916,High,Immediate Investigation
+3074020,0,1,0.9974803998263916,High,Immediate Investigation
+3086301,0,1,0.9973169887862283,High,Immediate Investigation
+3124494,0,1,0.9954386006384698,High,Immediate Investigation
+3124662,0,1,0.9954386006384698,High,Immediate Investigation
+3113739,0,1,0.9953665536453644,High,Immediate Investigation
+3126827,0,1,0.9952781986007443,High,Immediate Investigation
+3116213,0,1,0.9951911595351617,High,Immediate Investigation
+3116083,0,1,0.9951911595351617,High,Immediate Investigation
+3116022,0,1,0.9951911595351617,High,Immediate Investigation
+3115914,0,1,0.9951911595351617,High,Immediate Investigation
+3116312,0,1,0.9951911595351617,High,Immediate Investigation
+3144225,0,1,0.9951835369116442,High,Immediate Investigation
+3151872,0,1,0.9950771539329207,High,Immediate Investigation
+3151812,0,1,0.9950771539329207,High,Immediate Investigation
+3151918,0,1,0.9950771539329207,High,Immediate Investigation
+3149087,0,1,0.9950771539329207,High,Immediate Investigation
