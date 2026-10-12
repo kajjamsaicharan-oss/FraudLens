@@ -92,7 +92,7 @@ def explain_transaction(model, transaction):
 def load_data():
 
     return pd.read_csv(
-        DATA_DIR / "fraudlens_features.csv"
+        BASE_DIR / "sample_data"/"fraudlens_features.csv"
     )
 
 
