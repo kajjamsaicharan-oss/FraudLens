@@ -93,7 +93,7 @@ def load_data():
 
     return pd.read_csv(
         BASE_DIR /"sample_data"/
-        "fraudlens_features.csv"
+        "fraudlens_sample.csv"
     )
 
 
